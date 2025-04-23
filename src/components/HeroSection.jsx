@@ -8,7 +8,7 @@ const HeroSection = () => {
         {/* Text */}
         <div className="md:w-1/2 mb-8 md:mb-0">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Welcome</h1>
-          <p className="text-gray-600 mb-6">This is your local image hero section.</p>
+          <p className="text-gray-600 mb-6">React is a JavaScript library used for building user interfaces, particularly for single-page applications where the content updates dynamically without requiring a full page reload. It allows developers to create reusable UI components, manage application state efficiently, and render updates to the DOM (Document Object Model) effectively.</p>
           <button className="bg-blue-600 text-white px-6 py-3 rounded-xl hover:bg-blue-700 transition duration-300">
             Get Started
           </button>
